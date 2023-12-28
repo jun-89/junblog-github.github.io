@@ -10,7 +10,7 @@ export default withMermaid(
     lang: metaData.lang,
     title: metaData.title,
     description: metaData.description,
-    base: '/junblogs/',
+    base: '/junblog-github/',
     cleanUrls: true,
     lastUpdated: true, // 显示最后更新时间
 
